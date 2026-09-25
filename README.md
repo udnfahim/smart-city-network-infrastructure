@@ -56,7 +56,7 @@ A production-grade, enterprise network simulation engineered to support a secure
 
 ## Author & Open Source Contribution
 **Designed and Engineered by Fahim Uddin**  
-*Undergraduate Department of Computer Science and Engineering, Southeast University*[cite: 10]  
+*Undergraduate Department of Computer Science and Engineering, Southeast University*
 
 ### License
 This project is open-source software licensed under the **MIT License**. You are free to use, modify, share, and contribute to this repository for educational, professional, and personal portfolio applications. Please review the LICENSE file for details.
